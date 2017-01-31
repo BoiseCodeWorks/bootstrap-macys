@@ -1,0 +1,31 @@
+.bg-black{
+  background: black;
+  color: white;
+}
+
+
+.bg-red{
+  background: red;
+}
+
+.bg-picture{
+  background: url(http://www.planwallpaper.com/static/images/cool-dog.jpg);
+  background-size: cover;
+}
+
+.bg-pink {
+  background: deeppink;
+}
+
+.box{
+  height: 600px;
+  width: 100%;
+}
+
+.m-t-2{
+  margin-top: 2em;
+}
+
+.text-white{
+  color: white;
+}
